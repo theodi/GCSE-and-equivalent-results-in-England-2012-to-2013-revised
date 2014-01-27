@@ -45,6 +45,7 @@ Source file | Destination file | Converted tables
 *SFR01_2014_AT.xls* | *table_17_incl_e_and_m.csv*| Local Authority tables - Table 17: GCSE and equivalent results of pupils at the end of key stage 4 for each local authority1 and region, including English and Mathematics GCSEs. Year: 2005/06 to 2012/132 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_18.csv*| Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_19_english.csv*| Local Authority tables - Table 19: Percentage of pupils in state-funded mainstream schools making expected progress in English between key stage 2 and key stage 4, by local authority and region. Year: 2008/09 to 2012/13. Coverage: England.
+*SFR01_2014_AT.xls* | *table_19_mathematics.csv*| Local Authority tables - Table 19: Percentage of pupils in state-funded mainstream schools making expected progress in Mathematics between key stage 2 and key stage 4, by local authority and region. Year: 2008/09 to 2012/13. Coverage: England.
 
 
 
