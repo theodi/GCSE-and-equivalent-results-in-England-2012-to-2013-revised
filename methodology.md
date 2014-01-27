@@ -40,6 +40,7 @@ Source file | Destination file | Converted tables
 *SFR01_2014_NT.xls* | *table_5a.csv* | National tables - Table 5a:  Percentage of pupils achieving level 2 at the end of key stage 4 by qualification families, by type of school and gender. Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_8.csv* | National tables - Table 8: GCSE entries and achievements in selected subjects of pupils at the end of key stage 4 in schools (percentage of **pupils entering the subject**). Year: 2012/132 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_9.csv* | National tables - Table 9: GCSE entries and achievements in selected subjects of pupils at the end of key stage 4 in schools (percentage of **all pupils**). Year: 2012/13 (Revised). Coverage: England.
+*SFR01_2014_NT.xls* | *table_10a.csv* | Table 10a: GCSE entries in selected subjects by pupils at the end of key stage 4 by school type (percentage). Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_17_incl_e_and_m.csv*| Local Authority tables - Table 17: GCSE and equivalent results of pupils at the end of key stage 4 for each local authority1 and region, including English and Mathematics GCSEs. Year: 2005/06 to 2012/132 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_18.csv*| Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_19_english.csv*| Local Authority tables - Table 19: Percentage of pupils in state-funded mainstream schools making expected progress in English between key stage 2 and key stage 4, by local authority and region. Year: 2008/09 to 2012/13. Coverage: England.
@@ -49,6 +50,6 @@ We also took the opportunity of doing so by using the Open Knowledge Foundation'
 
 Any information related to the data that the Excel files express in the formatting was captured using SDF's [*datapackage.json*](/data/processed/01_stage_1/datapackage.json) file. As this was prepared manually, please be forgiving in case of mistakes and feel free to submit any fixes. 
 
-
+"Not applicable" values are represented using "NA", according to R's convention.
 
 
