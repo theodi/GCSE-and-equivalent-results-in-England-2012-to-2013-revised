@@ -29,4 +29,17 @@ Below is a description of the contents in this project, by folder.
 
 Differently from [the other dataset](https://github.com/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013), this has no 'key'. Moreover, what the other team called "the underlying data", made of a collection of csv files, is not made available. This means that the four Microsoft Excel files that make the source package for this dataset are unfortunately our *raw* source.
 
-In stage 1 we transformed the Excel data onto open and fully machine-readable formats. We also took the opportunity of doing so by using the Open Knowledge Foundation's [Simple Data Format](http://dataprotocols.org/simple-data-format/) as our reference (read also ODI Jeni Tennison's ["2014: The Year of CSV"](http://theodi.org/blog/2014-the-year-of-csv) explaining the need for context in csv data). In the process we will in dedicated documents any information related to the data that the Excel files express in the formatting.
+[![Giacecco asking for the raw data on Twitter](images/twitter1.png "Giacecco asking for the raw data on Twitter")](https://twitter.com/giacecco/status/427743908047884288)
+
+In stage 1 we then transformed the Excel data onto open and fully machine-readable formats. This is a time-consuming 'reverse engineering' work that is far from being ideal. Because of the limited time, only a few of the source Excel files and their sheets were processed. The list is described below:
+
+- *SFR01_2014_NT.xlsx*
+	- Table 1a
+	- Table 1b
+	- [ONGOING]
+
+We also took the opportunity of doing so by using the Open Knowledge Foundation's [Simple Data Format](http://dataprotocols.org/simple-data-format/) (SDF) as our reference (read also ODI Jeni Tennison's ["2014: The Year of CSV"](http://theodi.org/blog/2014-the-year-of-csv) explaining the need for context in csv data). Any information related to the data that the Excel files express in the formatting was captured in the SDF [*datapackage.json*](/data/processed/01_stage_1/datapackage.json) file.
+
+
+
+
