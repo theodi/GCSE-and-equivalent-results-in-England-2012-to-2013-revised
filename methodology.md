@@ -5,9 +5,9 @@ GCSE and equivalent results in England, 2012 to 2013 (revised)
 
 ###Introduction
 
-This dataset was prepared after most of the work for its 'sibling' ["GCSE and equivalent attainment by pupil characteristics: 2012 to 2013"](/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013) was completed. 
+This dataset was prepared after most of the work for its 'sibling' ["GCSE and equivalent attainment by pupil characteristics: 2012 to 2013"](https://github.com/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013) was completed. 
 
-Although you can tell that the two datasets were issued by different DfE teams (e.g. you can see in the PDF release notes that their work was lead by different statisticians) there is some degree of similarity in the style. This means that many of the considerations we made in the [methodology document for the other dataset](/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013/blob/master/methodology.md) apply to this, too. Although your focus may be on this dataset only, we suggest you read the other dataset's methodology document, too.
+Although you can tell that the two datasets were issued by different DfE teams (e.g. you can see in the PDF release notes that their work was lead by different statisticians) there is some degree of similarity in the style. This means that many of the considerations we made in the [methodology document for the other dataset](https://github.com/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013/blob/master/methodology.md) apply to this, too. Although your focus may be on this dataset only, we suggest you read the other dataset's methodology document, too.
 
 Data processing and cleansing developed through the two stages described below:
 
