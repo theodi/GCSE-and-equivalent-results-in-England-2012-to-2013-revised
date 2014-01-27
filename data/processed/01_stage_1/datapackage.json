@@ -1,0 +1,66 @@
+{
+  "name": "GCSE and equivalent results in England, 2012 to 2013 (revised)",
+  "resources": [
+    {
+      "path": "table_1a.csv",
+      "description": "Table 1a: Time series of GCSE and equivalent entries and achievements. Years: 1995/96 to 2012/131 (Revised). Coverage: England.",
+      "notes": [
+        "The years include entries and achievements in previous academic years.",
+        "Figures for 2012/13 are revised, all other figures are final."
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "type",
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "type": "integer",
+            "notes": [
+              "E.g. 1997 is school year 1997/98."
+            ]
+          },
+          {
+            "name": "number-of-pupils",
+            "type": "integer",
+            "notes": [
+              "Number of pupils on roll aged 15 at the start of the academic year or at the end of key stage 4."
+            ]
+          },
+          {
+            "name": "5plus-GCSE-A-C",
+            "description": "Percentage who achieved 5+ GCSEs A*-C or equivalent",
+            "type": "number"
+          },
+          {
+            "name": "5plus-GCSE-A-C-incl-english-and-maths",
+            "description": "Percentage who achieved 5+ GCSEs A*-C or equivalent including English and mathematics GCSEs",
+            "type": "number",
+            "notes": [
+              "From 2009/2010 iGCSEs, accredited at time of publication, have been counted as GCSE equivalents and also as English & mathematics GCSEs. Also provided are 2009/10 figures without iGCSEs to be consistent with earlier years’ data."
+            ]
+          },
+          {
+            "name": "5plus-GCSE-A-G",
+            "description": "Percentage who achieved 5+ GCSEs A*-G or equivalent",
+            "type": "number"
+          },
+          {
+            "name": "5plus-GCSE-A-G-incl-english-and-maths",
+            "description": "Percentage who achieved 5+ GCSEs A*-G or equivalent including English and mathematics GCSEs4",
+            "type": "number",
+            "notes": [
+              "From 2009/2010 iGCSEs, accredited at time of publication, have been counted as GCSE equivalents and also as English & mathematics GCSEs. Also provided are 2009/10 figures without iGCSEs to be consistent with earlier years’ data."
+            ]
+          },
+          {
+            "name": "any-passes",
+            "description": "Percentage of any passes"
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ]
+}
