@@ -31,7 +31,7 @@ Differently from [the other dataset](https://github.com/Digital-Contraptions-Ima
 
 [![Giacecco asking for the raw data on Twitter](images/twitter1.png "Giacecco asking for the raw data on Twitter")](https://twitter.com/giacecco/status/427743908047884288)
 
-In stage 1 we then transformed the Excel data onto open and fully machine-readable formats. This is a time-consuming 'reverse engineering' work that is far from being ideal. Because of the limited time, only a few of the source Excel files and their sheets were processed. The list is described below:
+In stage 1 we then transformed the Excel data onto open and fully machine-readable formats. This is a time-consuming 'reverse engineering' work that is far from being ideal. Because of the limited time, only a few of the source Excel files and their sheets were processed. The list is described below and the result is in the [data/01_stage_1](data/01_stage_1) folder.
 
 Source file | Destination file | Converted tables
 ------------|----------|-----------------
@@ -40,6 +40,7 @@ Source file | Destination file | Converted tables
 *SFR01_2014_NT.xls* | *table_1b_by_subject.csv* | National tables - Bottom section of table 1b: The English Baccalaureate - By subject.
 *SFR01_2014_NT.xls* | *table_1c.csv* | National tables - Table 1c: Percentage of pupils making expected progress in English and in mathematics between key stage 2 and key stage 4 by gender. Years: 2007/08 to 2012/13 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_1d.csv* | National tables - Table 1d: Percentage of pupils making expected progress1 in English and mathematics between key stage 2 and key stage 4 by key stage 2 attainment level and key stage 4 outcome. Year: 2012/13 (Revised). Coverage: England.
+*SFR01_2014_NT.xls* | *table_4a.csv* | National tables - Table 4a: Average point scores and achievement of GCSE English and mathematics at grades A* to C by pupils at the end of key stage 4 by type of school and gender. Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_8.csv* | National tables - Table 8: GCSE entries and achievements in selected subjects of pupils at the end of key stage 4 in schools (percentage of pupils **entering the subject**). Year: 2012/132 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_9.csv* | National tables - Table 9: GCSE entries and achievements in selected subjects of pupils at the end of key stage 4 in schools (percentage of **all** pupils). Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_17_incl_e_and_m.csv*| Local Authority tables - Table 17: GCSE and equivalent results of pupils at the end of key stage 4 for each local authority1 and region, including English and Mathematics GCSEs. Year: 2005/06 to 2012/132 (Revised). Coverage: England.
