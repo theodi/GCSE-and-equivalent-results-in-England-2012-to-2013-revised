@@ -44,6 +44,10 @@ Source file | Destination file | Converted tables
 *SFR01_2014_NT.xls* | *table_9.csv* | National tables - Table 9: GCSE entries and achievements in selected subjects of pupils at the end of key stage 4 in schools (percentage of **all** pupils). Year: 2012/13 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_17_incl_e_and_m.csv*| Local Authority tables - Table 17: GCSE and equivalent results of pupils at the end of key stage 4 for each local authority1 and region, including English and Mathematics GCSEs. Year: 2005/06 to 2012/132 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_18.csv*| Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
+*SFR01_2014_AT.xls* | *table_19_english.csv*| Local Authority tables - Table 19: Percentage of pupils in state-funded mainstream schools making expected progress in English between key stage 2 and key stage 4, by local authority and region. Year: 2008/09 to 2012/13. Coverage: England.
+
+
+
 
 We also took the opportunity of doing so by using the Open Knowledge Foundation's [Simple Data Format](http://dataprotocols.org/simple-data-format/) (SDF) as our reference (read also ODI Jeni Tennison's ["2014: The Year of CSV"](http://theodi.org/blog/2014-the-year-of-csv) explaining the need for context in csv data). Any information related to the data that the Excel files express in the formatting was captured in the SDF [*datapackage.json*](/data/processed/01_stage_1/datapackage.json) file.
 
