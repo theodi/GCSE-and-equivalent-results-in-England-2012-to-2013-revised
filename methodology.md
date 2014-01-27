@@ -40,7 +40,7 @@ Source file | Destination file | Converted tables
 *SFR01_2014_NT.xls* | *table_1b_by_subject.csv* | National tables - Bottom section of table 1b: The English Baccalaureate - By subject.
 *SFR01_2014_NT.xls* | *table_1c.csv* | National tables - Table 1c: Percentage of pupils making expected progress in English and in mathematics between key stage 2 and key stage 4 by gender. Years: 2007/08 to 2012/13 (Revised). Coverage: England.
 *SFR01_2014_NT.xls* | *table_1d.csv* | National tables - Table 1d: Percentage of pupils making expected progress1 in English and mathematics between key stage 2 and key stage 4 by key stage 2 attainment level and key stage 4 outcome. Year: 2012/13 (Revised). Coverage: England.
-*SFR01_2014_NT.xls* | *table_8.csv* | National tbales - Table 8: GCSE entries and achievements1 in selected subjects of pupils at the end of key stage 4 in schools (percentage of pupils entering the subject).
+*SFR01_2014_NT.xls* | *table_8.csv* | National tbales - Table 8: GCSE entries and achievements1 in selected subjects of pupils at the end of key stage 4 in schools (percentage of pupils entering the subject). Year: 2012/132 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_17_incl_e_and_m.csv*| Local Authority tables - Table 17: GCSE and equivalent results of pupils at the end of key stage 4 for each local authority1 and region, including English and Mathematics GCSEs. Year: 2005/06 to 2012/132 (Revised). Coverage: England.
 *SFR01_2014_AT.xls* | *table_18.csv*| Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
 
