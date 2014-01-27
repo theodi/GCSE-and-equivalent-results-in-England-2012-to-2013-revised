@@ -31,7 +31,7 @@ Differently from [the other dataset](https://github.com/Digital-Contraptions-Ima
 
 [![Giacecco asking for the raw data on Twitter](images/twitter1.png "Giacecco asking for the raw data on Twitter")](https://twitter.com/giacecco/status/427743908047884288)
 
-[![Giacecco thanking after being called back by DfE](images/twitter1.png "Giacecco thanking after being called back by DfE")](https://twitter.com/giacecco/status/427824518275825665)
+[![Giacecco thanking after being called back by DfE](images/twitter2.png "Giacecco thanking after being called back by DfE")](https://twitter.com/giacecco/status/427824518275825665)
 
 In stage 1 we then transformed the Excel data onto open and fully machine-readable formats. This is a time-consuming 'reverse engineering' work that is far from being ideal. Because of the limited time, only a few of the source Excel files and their sheets were processed. The list is described below and the result is in the [data/01_stage_1](data/01_stage_1) folder.
 
