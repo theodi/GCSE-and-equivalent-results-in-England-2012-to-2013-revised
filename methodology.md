@@ -35,8 +35,9 @@ In stage 1 we then transformed the Excel data onto open and fully machine-readab
 
 - *SFR01_2014_NT.xlsx*
 	- National tables - Table 1a: Time series of GCSE and equivalent entries and achievements. Years: 1995/96 to 2012/131 (Revised). Coverage: England.
-	- National tables - Top section of table 1b: The English Baccalaureate - By gender
-	- National tables - Bottom section of table 1b: The English Baccalaureate - By subject
+	- National tables - Top section of table 1b: The English Baccalaureate - By gender.
+	- National tables - Bottom section of table 1b: The English Baccalaureate - By subject.
+	- National tables - Table 1c: Percentage of pupils making expected progress in English and in mathematics between key stage 2 and key stage 4 by gender. Years: 2007/08 to 2012/13 (Revised). Coverage: England.
 - *SFR01_2014_AT.xlsx*
 	- Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
 	- [ONGOING]
