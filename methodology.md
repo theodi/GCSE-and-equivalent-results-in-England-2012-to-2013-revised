@@ -39,6 +39,7 @@ In stage 1 we then transformed the Excel data onto open and fully machine-readab
 	- National tables - Bottom section of table 1b: The English Baccalaureate - By subject
 - *SFR01_2014_AT.xlsx*
 	- Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
+	- Local Authority tables - Table 21: Number of schools below the floor standard by local authority and region.Year: 2012/13 (Revised). Coverage: England.
 	- [ONGOING]
 
 We also took the opportunity of doing so by using the Open Knowledge Foundation's [Simple Data Format](http://dataprotocols.org/simple-data-format/) (SDF) as our reference (read also ODI Jeni Tennison's ["2014: The Year of CSV"](http://theodi.org/blog/2014-the-year-of-csv) explaining the need for context in csv data). Any information related to the data that the Excel files express in the formatting was captured in the SDF [*datapackage.json*](/data/processed/01_stage_1/datapackage.json) file.
