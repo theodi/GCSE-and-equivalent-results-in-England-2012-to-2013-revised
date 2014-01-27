@@ -33,15 +33,15 @@ Differently from [the other dataset](https://github.com/Digital-Contraptions-Ima
 
 In stage 1 we then transformed the Excel data onto open and fully machine-readable formats. This is a time-consuming 'reverse engineering' work that is far from being ideal. Because of the limited time, only a few of the source Excel files and their sheets were processed. The list is described below:
 
-- *SFR01_2014_NT.xlsx*
-	- National tables - Table 1a: Time series of GCSE and equivalent entries and achievements. Years: 1995/96 to 2012/131 (Revised). Coverage: England.
-	- National tables - Top section of table 1b: The English Baccalaureate - By gender.
-	- National tables - Bottom section of table 1b: The English Baccalaureate - By subject.
-	- National tables - Table 1c: Percentage of pupils making expected progress in English and in mathematics between key stage 2 and key stage 4 by gender. Years: 2007/08 to 2012/13 (Revised). Coverage: England.
-	- National tables - Table 1d: Percentage of pupils making expected progress1 in English and mathematics between key stage 2 and key stage 4 by key stage 2 attainment level and key stage 4 outcome. Year: 2012/13 (Revised). Coverage: England.
-- *SFR01_2014_AT.xlsx*
-	- Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
-	- [ONGOING]
+Source file | Destination file | Converted tables
+------------|----------|-----------------
+*SFR01_2014_NT.xls* | *table_1a.csv* | National tables - Table 1a: Time series of GCSE and equivalent entries and achievements. Years: 1995/96 to 2012/13 (Revised). Coverage: England.
+*SFR01_2014_NT.xls* | *table_1b_by_gender.csv* | National tables - Top section of table 1b: The English Baccalaureate - By gender.
+*SFR01_2014_NT.xls* | *table_1b_by_subject.csv* | National tables - Bottom section of table 1b: The English Baccalaureate - By subject.
+*SFR01_2014_NT.xls* | *table_1c.csv* | National tables - Table 1c: Percentage of pupils making expected progress in English and in mathematics between key stage 2 and key stage 4 by gender. Years: 2007/08 to 2012/13 (Revised). Coverage: England.
+*SFR01_2014_NT.xls* | *table_1d.csv* | National tables - Table 1d: Percentage of pupils making expected progress1 in English and mathematics between key stage 2 and key stage 4 by key stage 2 attainment level and key stage 4 outcome. Year: 2012/13 (Revised). Coverage: England.
+*SFR01_2014_NT.xls* | *table_8.csv* | National tbales - Table 8: GCSE entries and achievements1 in selected subjects of pupils at the end of key stage 4 in schools (percentage of pupils entering the subject).
+*SFR01_2014_AT.xls* | *table_18.csv*| Local Authority tables - Table 18: The English Baccalaureate by local authority and region. Year: 2012/13 (Revised). Coverage: England.
 
 We also took the opportunity of doing so by using the Open Knowledge Foundation's [Simple Data Format](http://dataprotocols.org/simple-data-format/) (SDF) as our reference (read also ODI Jeni Tennison's ["2014: The Year of CSV"](http://theodi.org/blog/2014-the-year-of-csv) explaining the need for context in csv data). Any information related to the data that the Excel files express in the formatting was captured in the SDF [*datapackage.json*](/data/processed/01_stage_1/datapackage.json) file.
 
