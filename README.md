@@ -1,5 +1,3 @@
-#WORK IN PROGRESS 
-
 ![Open Data Challenge Series logo](images/open_data_challenge_series_logo.png "Open Data Challenge Series logo")
 
 - [About the Open Data Challenge Series](#about-the-open-data-challenge-series)
@@ -21,7 +19,7 @@ The seven themes will run until September 2015. This dataset was prepared for th
 
 ##About the Open Data Challenge Series - Education datasets
 
-The Open Data Challenge Series team has pre-selected a series of education open data datasets, specified at [thir URL](https://docs.google.com/spreadsheet/ccc?key=0Aswdg5Zc6wBhdFpRbUFacXd3WDZ6SV9mdzQtLVFFVmc&usp=sharing), that could be used by the participants as a starting point. 
+The Open Data Challenge Series team has pre-selected a series of education open data datasets, specified at [this URL](https://docs.google.com/spreadsheet/ccc?key=0Aswdg5Zc6wBhdFpRbUFacXd3WDZ6SV9mdzQtLVFFVmc&usp=sharing), that could be used by the participants as a starting point. 
 
 Among these, two datasets in particular, issued by the UK Government's Department for Education (DfE) were identified as perhaps the most interesting for the volume of information they offer and for being very recent, both published on 23rd January 2014. The team decided to further study and prepare them for the participants' use. They are:
 
