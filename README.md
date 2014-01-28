@@ -1,4 +1,4 @@
-![Open Data Challenge Series logo](images/open_data_challenge_series_logo.png "Open Data Challenge Series logo")
+![Open Data Challenge Series logo - Education](images/odcs_education.jpg "Open Data Challenge Series logo - Education")
 
 - [About the Open Data Challenge Series](#about-the-open-data-challenge-series)
 - [About the Open Data Challenge Series - Education datasets](#about-the-open-data-challenge-series)
@@ -19,14 +19,16 @@ The seven themes will run until September 2015. This dataset was prepared for th
 
 ##About the Open Data Challenge Series - Education datasets
 
-The Open Data Challenge Series team has pre-selected a series of education open data datasets, specified at [this URL](https://docs.google.com/spreadsheet/ccc?key=0Aswdg5Zc6wBhdFpRbUFacXd3WDZ6SV9mdzQtLVFFVmc&usp=sharing), that could be used by the participants as a starting point. 
+The Open Data Challenge Series team has pre-selected a series of open data datasets, specified at [this URL](https://docs.google.com/spreadsheet/ccc?key=0Aswdg5Zc6wBhdFpRbUFacXd3WDZ6SV9mdzQtLVFFVmc&usp=sharing), that could be used by the participants as a starting point for the Education challenge. 
 
 Among these, two datasets in particular, issued by the UK Government's Department for Education (DfE) were identified as perhaps the most interesting for the volume of information they offer and for being very recent, both published on 23rd January 2014. The team decided to further study and prepare them for the participants' use. They are:
 
-- "GCSE and equivalent attainment by pupil characteristics: 2012 to 2013", published at [this URL](https://www.gov.uk/government/publications/gcse-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013), and 
-- "GCSE and equivalent results in England, 2012 to 2013 (revised)", published at [this URL](https://www.gov.uk/government/publications/gcse-and-equivalent-results-in-england-2012-to-2013-revised)
+- "GCSE and equivalent attainment by pupil characteristics: 2012 to 2013", published by DfE at [this URL](https://www.gov.uk/government/publications/gcse-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013), and 
+- "GCSE and equivalent results in England, 2012 to 2013 (revised)", published by DfE at [this URL](https://www.gov.uk/government/publications/gcse-and-equivalent-results-in-england-2012-to-2013-revised)
 
-The objective of the work contained in this repository is to collect the data, pre-process and clean it to streamline further work by the Open Data Challenge Series participants.
+The objective of the work contained in this repository is to collect the data for the second dataset, pre-process and clean it to streamline further work by the Open Data Challenge Series participants.
+
+The "master copy" of this dataset is published on [the Open Data Challenge Series Education page on Socrata](https://communities.socrata.com/catalog/odc-education/).
 
 ##Methodology
 
