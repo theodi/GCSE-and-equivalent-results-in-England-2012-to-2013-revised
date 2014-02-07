@@ -9,6 +9,30 @@ This dataset was prepared after most of the work for its 'sibling' ["GCSE and eq
 
 Although you can tell that the two datasets were issued by different DfE teams (e.g. you can see in the PDF release notes that their work was lead by different statisticians) there is some degree of similarity in the style. This means that many of the considerations we made in the [methodology document for the other dataset](https://github.com/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013/blob/master/methodology.md) apply to this, too. Although your focus may be on this dataset only, we suggest you read the other dataset's methodology document, too, before starting work.
 
+### 7th February 2014 update
+
+While working on this dataset I wrote to the publishers to understand why the [attainments dataset](https://github.com/Digital-Contraptions-Imaginarium/GCSE-and-equivalent-attainment-by-pupil-characteristics-2012-to-2013) included the underlying raw data but this dataset did not. Jovita Lebednykaite, Statistical Officer at the DfE, was so kind to get back to me and commit to investigate. Below is her update, including juicy new data: 
+
+    Dear Gianfranco,
+    
+    RE: GCSE statistical first release underlying data
+    
+    We spoke on the phone about a week ago. I explained the difference between the GCSE results and GCSE results by pupils characteristics publications. You asked why there is no underlying data available for GCSE results, but is available for GCSE results by pupil characteristics.
+    
+    Two different teams produce GCSE and GCSE by characteristics statistics and the way they publish the data differs. GCSE results by pupil characteristics underlying data is published nationally and at local authority level, while GCSE results underlying data is published at school level by qualification, subjects and grade. GCSE results underlying data is available at the link below:
+    
+    [http://www.education.gov.uk/schools/performance/download_data.html](http://www.education.gov.uk/schools/performance/download_data.html)
+    
+    Please click on the “KS4 qualification and subject data” link in the middle of the page, then open the “ZIP” file and then the “EXCEL” file.
+    
+    I hope that you will find this information helpful. If you have any further questions, please do not hesitate to contact me.
+    
+    Kind Regards,
+     
+    Jovita
+
+What you find below is the original documentation I wrote before these news.
+
 ####No raw data! :-(
 
 A major difference from the other dataset is that what the other team named "the underlying data" (a collection of raw CSV files + a key) was **not** made available here. This means that the four Microsoft Excel files that make the source package for this dataset are unfortunately everything we've got.
